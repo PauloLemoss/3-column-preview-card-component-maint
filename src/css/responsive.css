@@ -1,0 +1,9 @@
+@media(max-width: 768px){
+    main{
+        display: flex;
+        flex-direction: column;
+        margin-top: 30px;
+        margin-right: 20px;
+        
+    }
+}
